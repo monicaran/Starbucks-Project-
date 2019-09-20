@@ -25,9 +25,8 @@ Installation
     
 Project Motivation
 ------
-In this project, I will try to find how Starbucks customers use the app, and how well is the current offers system. I will also see who should the app target in promotions. The data sets used in this project contains simulated data that mimics customer behavior on the Starbucks rewards mobile app. From it, we can understand the costumers' behavior and it might help us make better decisions.  
-The problem we have here is that we don't want to give any customer our offers. We want to give only those who we think will be able to complete the offer. Giving an offer to someone we know he/she probably will not be able to complete it is a waste of time and resources that can be given to someone who we know will complete it. I will approach this problem by first cleaning up the data, then doing some exploratory analysis and see who are my most valuable customers after that I will create a model to help us predicting feature customers and which type of offer should we give them.  
-My goal for this project is predicting which kind of offers, Buy One Get One Free (BOGO), Discount or informational is better to give a current customer by only knowing his/her age, gender, income and the amount they are paying.  
+The purpose of this project is to find how Starbucks customers use the app, and how well is the current offers system. The data sets used in this project contains simulated data that mimics customer behavior on the Starbucks rewards mobile app. From it, we can understand the costumers' behavior and it might help us make better decisions.  
+The problem existing is that the offers should be given to customers who mostly complete the offer. The approach is to firstly clean up the data and do some exploratory analysis to see who are the most valuable customers. After that, creating a model helps us predict feature customers and which kind of offers(Buy One Get One Free (BOGO), Discount or informational ) is better to give a current customer by only knowing his/her age, gender, income and the amount they are paying.  
 
 File Descriptions
 ------
@@ -36,7 +35,7 @@ There is one notebook file that have all the work related to the above questions
 
 Results 
 ------
-From that analysis I did in this project. I found out that most favorite type of offers are **Buy One Get One** (BOGO) offers and **Discount** offers. I digged deep to see who and what type of customers we have and noticed that **Females** tend to complete offers more than males with **56%** completion of the offers they received. Where **Males** completed only **43.18** from the offers they received. But our current data shows that we gave **males** more offers since they have more transactions than females with total number of **72794** transactions, where **females** only had **49382** transactions. In conclusion, the company should give more offers to **Females** than **Males** since they have more completed offers. And they should focus more on **BOGO** and **Discount** offers since they are the one that tend to make customers buy more.  
+In this project, I tried to analyze and make model to predict the best offer to give a Starbucks customer. First step is to explore the data and the second step is the exploratory analysis on the data after cleaning. From the analysis,the most favorite type of offers are Buy One Get One (BOGO) offers and Discount offers. I digged deep to see who and what type of customers we have and noticed that Females tend to complete offers more than males with 56% completion of the offers they received. Where Males completed only 43.18% from the offers they received. In conclusion, the company should give more offers to Females than Males since they have more completed offers. And they should focus more on BOGO and Discount offers since they are the one that tend to make customers buy more.
   
 The main findings of the code can be found [here](https://alioh.github.io/DSND-Capstone-Project/).
 
