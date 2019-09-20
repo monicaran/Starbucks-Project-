@@ -4,13 +4,13 @@
 
 1.[Installation](#Installation)
 
-2.[Project Motivation](#Project Motivation)
+2.[Project Motivation](#project-motivation)
 
-3.[File Descriptions](#File Descriptions)
+3.[File Descriptions](#file-descriptions)
 
 4.[Results](#Results)
 
-5.[Licensing, Authors, and Acknowledgements](#Licensing, Authors, and Acknowledgements)
+5.[Licensing, Authors, and Acknowledgements](#licensing-authors-and-acknowledgements)
 
 Installation
 ------
