@@ -37,8 +37,8 @@ Results
 ------
 In this project, I tried to analyze and make model to predict the best offer to give a Starbucks customer. First step is to explore the data and the second step is the exploratory analysis on the data after cleaning. From the analysis,the most favorite type of offers are Buy One Get One (BOGO) offers and Discount offers. I digged deep to see who and what type of customers we have and noticed that Females tend to complete offers more than males with 56% completion of the offers they received. Where Males completed only 43.18% from the offers they received. In conclusion, the company should give more offers to Females than Males since they have more completed offers. And they should focus more on BOGO and Discount offers since they are the one that tend to make customers buy more.
   
-The main findings of the code can be found [here](https://alioh.github.io/DSND-Capstone-Project/).
+The main findings of the code can be found [here](https://medium.com/@monica.ran5/starbucks-best-offers-predictor-analysis-a7487965f848).
 
 Licensing, Authors, and Acknowledgements
 ------
-The data was given by Starbucks and Udacity. Feel free to ask me anything about the code [@alioh](https://alioh.com)    
+The data was given by Starbucks and Udacity.
